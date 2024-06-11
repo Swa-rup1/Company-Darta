@@ -159,6 +159,7 @@ const Userlayout = () => {
             }}
           >
             <div className="logo flex items-center justify-center">
+              {/* img */}
               <Image
                 className="object-contain"
                 width={100}
